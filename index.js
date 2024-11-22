@@ -1,4 +1,4 @@
-
+//
  function eventfired()
 {
   console.log('Entering Promise')
